@@ -1,5 +1,6 @@
 [![Build Status](https://secure.travis-ci.org/Tarrasch/yesod-text-markdown.svg)](http://travis-ci.org/Tarrasch/yesod-text-markdown)
-
+NOTE:This fork is has bumped LTS ghc version and removed aeson verisons so it can be used with newer yesod versions
+===================================================================================================================
 yesod-text-markdown
 ===================
 
